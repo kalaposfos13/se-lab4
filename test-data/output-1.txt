@@ -1,4 +1,5 @@
 SUCCESS  # <- GT4500
+Unknown command: 'INVALID'
 SUCCESS  # <- TORPEDO
 SUCCESS  # <- TORPEDO
 SUCCESS  # <- TORPEDO
